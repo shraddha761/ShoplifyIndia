@@ -1,0 +1,18 @@
+SMAP
+AdminReg_jsp.java
+JSP
+*S JSP
+*F
++ 0 AdminReg.jsp
+AdminReg.jsp
++ 1 head.jsp
+head.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,10:50
+5#1,4:60
+14#0,28:64
+5#2,5:92
+41#0,4:97
+*E
