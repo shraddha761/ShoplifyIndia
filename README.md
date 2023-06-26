@@ -1,7 +1,7 @@
 # Shoplify India
 This is a README file for Shoplify India, a dynamic e-commerce website. It provides features such as user login with email verification, an add-to-cart function, and an admin panel for managing products.
 
- - Features
+# Features
 User Registration and Login:
 
 Users can register on the website using their email address and password.
